@@ -1,6 +1,6 @@
 # Dissertation-Code
 
-Here are the scripts for VAM and SMOTER.
+Here are the scripts for the dissertation.
 
 The "function" folders contain the function files imported.
 
